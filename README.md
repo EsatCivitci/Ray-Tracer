@@ -20,5 +20,5 @@ This project implements a **basic ray tracing algorithm** to render 3D scenes wi
 ## Compile & Run
 - **Compiling**:
   - Execute "Make" this command in solution folder to compile.
-- **Running*:
+- **Running**:
   - Execute "./raytracer ../inputs/file_name" this command to run.
