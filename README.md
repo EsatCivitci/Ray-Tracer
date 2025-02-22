@@ -1,5 +1,5 @@
 ## Overview
-This project implements a **basic ray tracing algorithm** to render 3D scenes with realistic lighting and reflections. The algorithm simulates the behavior of light rays interacting with objects, creating visually accurate images based on physical principles.
+This project is given by a homework for CENG477 course given by Metu. It is an implementation of a **basic ray tracing algorithm** to render 3D scenes with realistic lighting and reflections. The algorithm simulates the behavior of light rays interacting with objects, creating visually accurate images based on physical principles.
 
 ---
 
